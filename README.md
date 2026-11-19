@@ -77,3 +77,7 @@ Arcanarchy is primarily a technical and game-design portfolio project demonstrat
 Active development.
 
 Artwork, balancing, audio, and bonus systems are still evolving.
+
+## License and Copyright
+
+Copyright © 2026 Mycho James. All rights reserved. See [LICENSE](LICENSE) for the terms covering this game's original materials. Third-party components and assets, including Unity components, remain subject to their respective license terms. Rights granted under separate written agreements remain in effect.
